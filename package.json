@@ -1,0 +1,13 @@
+{
+    "name": "popicker",
+    "version": "1.0.0",
+    "description": "Unlimited level linkage selection tool",
+    "main": "popicker.es5.js", 
+    "module": "popicker.es6.js",
+    "repository": { 
+        "type": "git",
+        "url": "git+https://github.com/biedalianoh/popicker"
+    },
+    "author": "Chavin",
+    "license": "MIT"
+}
